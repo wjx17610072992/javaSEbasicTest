@@ -1,6 +1,6 @@
 // 周五作业第三题
 public class Wjx_homework3{
-	public static void main(String[]args){
+	public static void main(String[] args){
 		String str = "123456789012";
 		//方法 charAt();
 		int oldNum = 0;
